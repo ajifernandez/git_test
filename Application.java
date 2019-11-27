@@ -29,6 +29,6 @@ public class Application {
 	}
 }
 
-public void TERERERE {
+public void feature1 {
 	//Nothing
 }
