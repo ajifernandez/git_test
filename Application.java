@@ -29,6 +29,10 @@ public class Application {
 	}
 }
 
+<<<<<<< HEAD
+public void feature2_1 {
+=======
 public void f3 {
+>>>>>>> fd5db2823f608e0f2f52b3429811ba1d933901db
 	//Nothing
 }
