@@ -28,3 +28,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 }
+
+public void TERERERE {
+	//Nothing
+}
