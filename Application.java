@@ -29,6 +29,10 @@ public class Application {
 	}
 }
 
+<<<<<<< HEAD
 public void f1 {
+=======
+public void f2 {
+>>>>>>> 94ab0b68449f51561f32ae9c6dbb71543bfe73d7
 	//Nothing
 }
