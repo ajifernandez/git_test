@@ -29,6 +29,6 @@ public class Application {
 	}
 }
 
-public void feature1_1 {
+public void develop {
 	//Nothing
 }
