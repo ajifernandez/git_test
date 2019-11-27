@@ -29,6 +29,6 @@ public class Application {
 	}
 }
 
-public void f2_0 {
+public void f2_1 {
 	//Nothing
 }
